@@ -6,6 +6,7 @@
 	},
 	"description": "This is a crash course on learning backend with NodeJS.",
 	"keywords": ["freecodecamp", "backend", "NodeJS", "Node.JS"],
+	"licence": "BSD",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
