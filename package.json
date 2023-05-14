@@ -4,7 +4,7 @@
 		"name": "NDE-EBOM KAJI SOB AIME",
 		"email": "ndekaji@gmail.com"
 	},
-	"desciption": "This is a crash course on learning backend with NodeJS.",
+	"description": "This is a crash course on learning backend with NodeJS.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
