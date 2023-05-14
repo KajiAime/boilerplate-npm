@@ -1,6 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "NDE-EBOM KAJI SOB AIME",
+	"author": {
+		"name": "NDE-EBOM KAJI SOB AIME",
+		"email": "ndekaji@gmail.com"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
